@@ -1,9 +1,13 @@
-## How do you do, fellow coders 🛹
+### How do you do, fellow coders 🛹
 
-I'm a dev based in Philly, just throwing stuff at walls and seeing what sticks.
+**👋 I'm Paul**, a dev based in Philly with a passion for experimenting & exploring
 
-I work as a Software Engineer at [QVC](https://www.qvc.com/) on their Android app where I help develop for the Content Experience team. Most of my daily experimentation goes into [Metro Church's site](https://metrophilly.org/) where I serve as the Director of Digital Tech, and use stuff like React/Gatsby, Tailwind/Emotion, Sanity, & Netlify for the static site, and Java/SpringBoot, AWS, Postgres, & React/CRA, for the app/API.
+- I'm current working at [QVC](https://www.qvc.com/) as a Software Engineer on the Android / Mobile team
+- Most nights and weekends, I'm working with [Metro](https://metrophilly.org/) as their Director of Digital Tech
 
-Read more about me at [paulchoi.dev](https://paulchoi.dev/) or feel free to reach out to me at <paul@paulchoi.dev> 👋
+**🌊 Learn more** about me at [paulchoi.dev](https://paulchoi.dev)
 
-<a href="https://paulchoi.dev/qr4/"><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fpaulchoi.dev%2Fqr4%2F&chs=100x100&choe=UTF-8&chld=L|2' alt='qr code' width='100' height='100'/></a>
+**📬 Reach out to me** at [paul@paulchoi.dev](mailto:paul@paulchoi.dev) – [LinkedIn](https://pchoi.me/li) – [Twitter](https://pchoi.me/tw) – [Discord](https://pchoi.me/chat)
+
+
+**🙃 For a quick laugh**: [my all-time favorite short youtube clips](https://paulchoi.dev/qr4/)
