@@ -2,7 +2,7 @@
 
 **I'm Paul**, a dev based in Philly with a passion for experimenting & exploring
 
-- I'm curently working at [Sidecar](https://hello.getsidecar.com) as a Software Engineer II
+- I'm currently working at [Sidecar](https://hello.getsidecar.com) as a Software Engineer II
 - I formerly worked at [QVC](https://www.qvc.com/) as a Software Engineer on the Android / Mobile team
 - Most nights and weekends, I'm working with [Metro](https://metrophilly.org/) as their Director of Digital Tech
 
